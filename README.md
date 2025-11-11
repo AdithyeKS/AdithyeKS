@@ -4,19 +4,32 @@
 ---
 
 ### 🌱 About Me
-I'm a **BCA Final Year Student** passionate about creating useful digital solutions and exploring innovative technologies.  
+I'm a **BCA Final Year Student** passionate about building useful digital solutions and exploring innovative technologies.  
 Currently, I’m working on my main project — **EcoCycle**, an **E-waste Management System** designed to promote recycling and environmental awareness.  
-I enjoy learning about databases, software systems, and how technology can be used to support sustainability.
+I’ve also completed my **mini-project — Sports-Academix**, a group project focused on sports management.  
+I enjoy learning about databases, web systems, and how technology can support sustainability and efficiency.
 
 ---
 
-### 🚀 Current Project: EcoCycle
-**EcoCycle** ♻️ — A system designed to manage and monitor **electronic waste (E-waste)** efficiently.  
-It aims to create an eco-friendly environment by connecting users to disposal centers and encouraging responsible recycling.
+## 🚀 My Projects
 
-🧩 **Project Focus:** E-Waste Management System  
+### ♻️ EcoCycle — E-Waste Management System
+**EcoCycle** ♻️ — A system designed to manage and monitor **electronic waste (E-waste)** efficiently.  
+It promotes eco-friendly disposal and connects users to recycling centers.
+
 🔧 **Tech Used:** HTML, CSS, PHP, MySQL  
 📂 **Repository:** [EcoCycle](https://github.com/AdithyeKS/EcoCycle)
+
+---
+
+### 🏅 Sports-Academix — Sports Management System *(Mini Project – Group Team)*
+**Sports-Academix** 🏅 — A web-based **Sports Management System** developed as a **group mini-project** in the final year of BCA.  
+It allows efficient management of teams, players, matches, and scores.  
+The project demonstrates CRUD operations, PHP-MySQL connectivity, and teamwork in web app development.
+
+🔧 **Tech Used:** HTML, CSS, JavaScript, PHP, MySQL  
+👥 **Team Type:** Group Project (BCA Final Year)  
+📂 **Repository:** [Sports-Academix](https://github.com/AdithyeKS/Sports-Academix)
 
 ---
 
